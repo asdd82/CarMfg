@@ -9,3 +9,6 @@ CarMfg_jar.zip – The executable jar file
 CarMfg_src.zip – All source files. It is a maven project, was developed with Eclipse IDE 
 CarMfg-Instructions.pdf - a few simple instructions on how to test this application
 
+More information can be found in the file, CarMfg-Instructions.pdf
+
+
